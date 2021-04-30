@@ -1,2 +1,0 @@
-# algoritmo
-exercicios em C++
