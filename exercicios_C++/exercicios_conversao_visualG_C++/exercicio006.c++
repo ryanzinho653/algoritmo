@@ -50,9 +50,9 @@ int main () {
         resu15 = resu4 + resu8 + resu12;
 
         cout << "Resultado final\n";
-        cout << resu13;
-        cout << resu14;
         cout << resu15;
+        cout << resu14;
+        cout << resu13;
 
         do
         {
