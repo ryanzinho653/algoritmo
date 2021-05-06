@@ -28,24 +28,24 @@ int main () {
         cout << "porcentagem de desvaloricao: " << depreciacao << "%\n";
         cout << "com uma perca no valor do veiculo de R$" << valorDesv << "\n";
         cout << "valor final do veiculo R$" << valorFinal << "\n";
-    do
-    {
-     
-        cout << "deseja fazer mais contas (S/N)";
-        cin >> resp;
-
-    } while (resp != "S" && resp != "N" && resp != "s" && resp != "n");
-
-    
-    if (resp == "S" || resp == "s") {
+        do
+        {
         
-        resp2 = "S";
+            cout << "deseja fazer mais contas (S/N)";
+            cin >> resp;
 
-    }else if (resp == "N" || resp == "n") {
+        } while (resp != "S" && resp != "N" && resp != "s" && resp != "n");
+
         
-        resp2 = "N";
-    
-    }
+        if (resp == "S" || resp == "s") {
+            
+            resp2 = "S";
+
+        }else if (resp == "N" || resp == "n") {
+            
+            resp2 = "N";
+        
+        }
     
     }while(resp2 == "S");
     system ("cls");
