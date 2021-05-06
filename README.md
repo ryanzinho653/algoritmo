@@ -1,3 +1,2 @@
 # algoritmo
-exercicios em C++
-tenho o objetivo de praticar  progração.
+exercicios em C e C++
