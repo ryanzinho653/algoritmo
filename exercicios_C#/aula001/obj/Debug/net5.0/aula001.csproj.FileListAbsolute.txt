@@ -1,0 +1,16 @@
+D:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula001\bin\Debug\net5.0\aula001.exe
+D:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula001\bin\Debug\net5.0\aula001.deps.json
+D:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula001\bin\Debug\net5.0\aula001.runtimeconfig.json
+D:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula001\bin\Debug\net5.0\aula001.runtimeconfig.dev.json
+D:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula001\bin\Debug\net5.0\aula001.dll
+D:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula001\bin\Debug\net5.0\ref\aula001.dll
+D:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula001\bin\Debug\net5.0\aula001.pdb
+D:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula001\obj\Debug\net5.0\aula001.csprojAssemblyReference.cache
+D:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula001\obj\Debug\net5.0\aula001.GeneratedMSBuildEditorConfig.editorconfig
+D:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula001\obj\Debug\net5.0\aula001.AssemblyInfoInputs.cache
+D:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula001\obj\Debug\net5.0\aula001.AssemblyInfo.cs
+D:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula001\obj\Debug\net5.0\aula001.csproj.CoreCompileInputs.cache
+D:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula001\obj\Debug\net5.0\aula001.dll
+D:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula001\obj\Debug\net5.0\ref\aula001.dll
+D:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula001\obj\Debug\net5.0\aula001.pdb
+D:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula001\obj\Debug\net5.0\aula001.genruntimeconfig.cache
