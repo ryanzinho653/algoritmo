@@ -1,0 +1,16 @@
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\exercicios_sinzomar\exercicio011\bin\Debug\net5.0\exercicio011.exe
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\exercicios_sinzomar\exercicio011\bin\Debug\net5.0\exercicio011.deps.json
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\exercicios_sinzomar\exercicio011\bin\Debug\net5.0\exercicio011.runtimeconfig.json
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\exercicios_sinzomar\exercicio011\bin\Debug\net5.0\exercicio011.runtimeconfig.dev.json
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\exercicios_sinzomar\exercicio011\bin\Debug\net5.0\exercicio011.dll
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\exercicios_sinzomar\exercicio011\bin\Debug\net5.0\ref\exercicio011.dll
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\exercicios_sinzomar\exercicio011\bin\Debug\net5.0\exercicio011.pdb
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\exercicios_sinzomar\exercicio011\obj\Debug\net5.0\exercicio011.csprojAssemblyReference.cache
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\exercicios_sinzomar\exercicio011\obj\Debug\net5.0\exercicio011.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\exercicios_sinzomar\exercicio011\obj\Debug\net5.0\exercicio011.AssemblyInfoInputs.cache
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\exercicios_sinzomar\exercicio011\obj\Debug\net5.0\exercicio011.AssemblyInfo.cs
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\exercicios_sinzomar\exercicio011\obj\Debug\net5.0\exercicio011.csproj.CoreCompileInputs.cache
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\exercicios_sinzomar\exercicio011\obj\Debug\net5.0\exercicio011.dll
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\exercicios_sinzomar\exercicio011\obj\Debug\net5.0\ref\exercicio011.dll
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\exercicios_sinzomar\exercicio011\obj\Debug\net5.0\exercicio011.pdb
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\exercicios_sinzomar\exercicio011\obj\Debug\net5.0\exercicio011.genruntimeconfig.cache
