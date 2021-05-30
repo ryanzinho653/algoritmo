@@ -1,2 +1,2 @@
 # algoritmo
-exercicios em C e C++
+exercicios em C, C++ e C#
