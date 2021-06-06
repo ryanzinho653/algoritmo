@@ -3,14 +3,25 @@
 using namespace std;
 int main ()
 {
-    cout << "informe a quantidade de vetores A que voce deseja: ";
-    cin >> i;
-    cout << "informe a quantidade de vetores B que voce deseja: ";
-    cin >> c;
+    int A[2], B[2];
 
-    int a[], b[c], i, c;
+    cout << "informe o 1 valor do vetor A: ";
+    cin >> A[0];
 
+    cout << "\n" << "informe o 2 valor do vetor A: ";
+    cin >> A[1];
+
+    cout << "\n" << "informe o 1 valor do vetor B: ";
+    cin >> B[0];
+
+    cout << "\n" << "informe o 2 valor do vetor B: ";
+    cin >> B[1];
+
+    cout << "\n" << "valor do 1 vetor A: " << A[0];
+    cout << "\n" << "valor do 2 vetor A: " << A[1];
     
+    cout << "\n" << "valor do 1 vetor B: " << B[0];
+    cout << "\n" << "valor do 2 vetor B: " << B[1];
 
-    return 0;
+    return  0;
 }
