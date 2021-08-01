@@ -1,0 +1,16 @@
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula002\exercicio008\bin\Debug\net5.0-windows\exercicio008.exe
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula002\exercicio008\bin\Debug\net5.0-windows\exercicio008.deps.json
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula002\exercicio008\bin\Debug\net5.0-windows\exercicio008.runtimeconfig.json
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula002\exercicio008\bin\Debug\net5.0-windows\exercicio008.runtimeconfig.dev.json
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula002\exercicio008\bin\Debug\net5.0-windows\exercicio008.dll
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula002\exercicio008\bin\Debug\net5.0-windows\ref\exercicio008.dll
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula002\exercicio008\bin\Debug\net5.0-windows\exercicio008.pdb
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula002\exercicio008\obj\Debug\net5.0-windows\exercicio008.csprojAssemblyReference.cache
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula002\exercicio008\obj\Debug\net5.0-windows\exercicio008.GeneratedMSBuildEditorConfig.editorconfig
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula002\exercicio008\obj\Debug\net5.0-windows\exercicio008.AssemblyInfoInputs.cache
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula002\exercicio008\obj\Debug\net5.0-windows\exercicio008.AssemblyInfo.cs
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula002\exercicio008\obj\Debug\net5.0-windows\exercicio008.csproj.CoreCompileInputs.cache
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula002\exercicio008\obj\Debug\net5.0-windows\exercicio008.dll
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula002\exercicio008\obj\Debug\net5.0-windows\ref\exercicio008.dll
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula002\exercicio008\obj\Debug\net5.0-windows\exercicio008.pdb
+E:\ETEC\algoritmo\vscode-C-C++-C#\algoritmo\exercicios_C#\aula002\exercicio008\obj\Debug\net5.0-windows\exercicio008.genruntimeconfig.cache
