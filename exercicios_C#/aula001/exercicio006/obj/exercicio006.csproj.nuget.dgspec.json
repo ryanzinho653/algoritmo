@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ETEC\\algoritmo\\vscode-C-C++-C#\\algoritmo\\exercicios_C#\\aula001\\exercicio006\\exercicio006.csproj": {}
+    "D:\\ETEC\\algoritmo\\vscode-C-C++-C#\\algoritmo\\exercicios_C#\\aula001\\exercicio006\\exercicio006.csproj": {}
   },
   "projects": {
-    "E:\\ETEC\\algoritmo\\vscode-C-C++-C#\\algoritmo\\exercicios_C#\\aula001\\exercicio006\\exercicio006.csproj": {
+    "D:\\ETEC\\algoritmo\\vscode-C-C++-C#\\algoritmo\\exercicios_C#\\aula001\\exercicio006\\exercicio006.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ETEC\\algoritmo\\vscode-C-C++-C#\\algoritmo\\exercicios_C#\\aula001\\exercicio006\\exercicio006.csproj",
+        "projectUniqueName": "D:\\ETEC\\algoritmo\\vscode-C-C++-C#\\algoritmo\\exercicios_C#\\aula001\\exercicio006\\exercicio006.csproj",
         "projectName": "exercicio006",
-        "projectPath": "E:\\ETEC\\algoritmo\\vscode-C-C++-C#\\algoritmo\\exercicios_C#\\aula001\\exercicio006\\exercicio006.csproj",
+        "projectPath": "D:\\ETEC\\algoritmo\\vscode-C-C++-C#\\algoritmo\\exercicios_C#\\aula001\\exercicio006\\exercicio006.csproj",
         "packagesPath": "C:\\Users\\ryana\\.nuget\\packages\\",
-        "outputPath": "E:\\ETEC\\algoritmo\\vscode-C-C++-C#\\algoritmo\\exercicios_C#\\aula001\\exercicio006\\obj\\",
+        "outputPath": "D:\\ETEC\\algoritmo\\vscode-C-C++-C#\\algoritmo\\exercicios_C#\\aula001\\exercicio006\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ryana\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ryana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
